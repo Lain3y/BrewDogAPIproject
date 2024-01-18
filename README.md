@@ -17,7 +17,7 @@ pip install random
 
 ## Usage
 1. Run the script in your Python environment.
-2. Follow the prompts to choose between savory and sweet snacks.
+2. Follow the prompts to choose between savoury and sweet snacks.
 3. Explore the daily menu options for your selected category.
 4. Press Enter to reveal the perfect beer pairing.
 
@@ -25,8 +25,8 @@ pip install random
 ### Text Wrapping
 To enhance readability, a `wrap_text` function is implemented. This function ensures that beer descriptions are displayed in a user-friendly format without appearing as one long line.
 
-### Savory Snack Pairing
-If you choose a savory snack, the script displays a menu and randomly selects a BrewDog beer that pairs well with the chosen snack category.
+### Savoury Snack Pairing
+If you choose a savoury snack, the script displays a menu and randomly selects a BrewDog beer that pairs well with the chosen snack category.
 
 ### Sweet Snack Pairing
 If you opt for a sweet snack, the script showcases a sweet menu and randomly selects a BrewDog beer that complements the selected sweet treat.
